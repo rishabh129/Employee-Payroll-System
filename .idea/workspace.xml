@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7534200d-818d-4f32-bb40-33e51c14f778" name="Changes" comment="Employee class">
-      <change afterPath="$PROJECT_DIR$/src/FullTimeEmployee.java" afterDir="false" />
+    <list default="true" id="7534200d-818d-4f32-bb40-33e51c14f778" name="Changes" comment="Full Time Employee class">
+      <change afterPath="$PROJECT_DIR$/src/PartTimeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PayrollSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726848953911</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Full Time Employee class">
+      <created>1726849427876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726849427876</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Employee class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employee class" />
+    <MESSAGE value="Full Time Employee class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full Time Employee class" />
   </component>
 </project>
